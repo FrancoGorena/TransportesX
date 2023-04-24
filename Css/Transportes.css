@@ -209,7 +209,6 @@ footer{
         /*Contactos*/
 
 .contacto {
-    display: flex;
     gap: 24px;
 }
 
@@ -218,14 +217,14 @@ footer{
 }
 
 .datos p {
-    font-size: 14px;
+    font-size: 14px;    
 }
 
 .datos ul li{
     font-size: 13px;
 }
 
-.formulario p {
+.formulario p{
     display: flex;
 }
 
